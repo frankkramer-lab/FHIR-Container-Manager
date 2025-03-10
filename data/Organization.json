@@ -1,0 +1,1822 @@
+[
+  {
+    "resourceType": "Organization",
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CAMBRIDGE HEALTH ALLIANCE",
+    "address": [
+      {
+        "line": [
+          "1493 CAMBRIDGE STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ANNA JAQUES HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVENUE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "HALLMARK HEALTH SYSTEM",
+    "address": [
+      {
+        "line": [
+          "585 LEBANON STREET"
+        ],
+        "city": "MELROSE",
+        "state": "MA",
+        "postalCode": "02176"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+    "address": [
+      {
+        "line": [
+          "199 REEDSDALE ROAD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP9301",
+    "address": [
+      {
+        "line": [
+          "240 CONCORD AVE"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-1337"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP34194",
+    "address": [
+      {
+        "line": [
+          "1 MIFFLIN PL"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-4946"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ORTHOPEDIC TRAUMA P.C.",
+    "address": [
+      {
+        "line": [
+          "100 HIGHLAND ST"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3874"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP112182",
+    "address": [
+      {
+        "line": [
+          "335 MAIN ST"
+        ],
+        "city": "SAUGUS",
+        "state": "MA",
+        "postalCode": "01906-3143"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "NORTH SUBURBAN ORTHOPEDIC ASSOCIATES INC",
+    "address": [
+      {
+        "line": [
+          "602 BOADWAY"
+        ],
+        "city": "EVERETT",
+        "state": "MA",
+        "postalCode": "02149"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "UROLOGY CONSULTANTS OF NS",
+    "address": [
+      {
+        "line": [
+          "1 WALLACE BASHAW JR WAY"
+        ],
+        "city": "NEWBURGPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CHELSEA MGH HEALTH CENTER MEDICAL WALK IN",
+    "address": [
+      {
+        "line": [
+          "151 EVERETT AVENUE"
+        ],
+        "city": "CHELSEA",
+        "state": "MA",
+        "postalCode": "2150"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "LAHEY CLINIC NORTHSHORE",
+    "address": [
+      {
+        "line": [
+          "1 ESSEX CENTER DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "1960"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CAMBRIDGE HEALTH ALLIANCE",
+    "address": [
+      {
+        "line": [
+          "1493 CAMBRIDGE STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ANNA JAQUES HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVENUE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "HALLMARK HEALTH SYSTEM",
+    "address": [
+      {
+        "line": [
+          "585 LEBANON STREET"
+        ],
+        "city": "MELROSE",
+        "state": "MA",
+        "postalCode": "02176"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+    "address": [
+      {
+        "line": [
+          "199 REEDSDALE ROAD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP9301",
+    "address": [
+      {
+        "line": [
+          "240 CONCORD AVE"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-1337"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP34194",
+    "address": [
+      {
+        "line": [
+          "1 MIFFLIN PL"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-4946"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ORTHOPEDIC TRAUMA P.C.",
+    "address": [
+      {
+        "line": [
+          "100 HIGHLAND ST"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3874"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP112182",
+    "address": [
+      {
+        "line": [
+          "335 MAIN ST"
+        ],
+        "city": "SAUGUS",
+        "state": "MA",
+        "postalCode": "01906-3143"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "NORTH SUBURBAN ORTHOPEDIC ASSOCIATES INC",
+    "address": [
+      {
+        "line": [
+          "602 BOADWAY"
+        ],
+        "city": "EVERETT",
+        "state": "MA",
+        "postalCode": "02149"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "UROLOGY CONSULTANTS OF NS",
+    "address": [
+      {
+        "line": [
+          "1 WALLACE BASHAW JR WAY"
+        ],
+        "city": "NEWBURGPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CHELSEA MGH HEALTH CENTER MEDICAL WALK IN",
+    "address": [
+      {
+        "line": [
+          "151 EVERETT AVENUE"
+        ],
+        "city": "CHELSEA",
+        "state": "MA",
+        "postalCode": "2150"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "LAHEY CLINIC NORTHSHORE",
+    "address": [
+      {
+        "line": [
+          "1 ESSEX CENTER DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "1960"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CAMBRIDGE HEALTH ALLIANCE",
+    "address": [
+      {
+        "line": [
+          "1493 CAMBRIDGE STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ANNA JAQUES HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVENUE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "HALLMARK HEALTH SYSTEM",
+    "address": [
+      {
+        "line": [
+          "585 LEBANON STREET"
+        ],
+        "city": "MELROSE",
+        "state": "MA",
+        "postalCode": "02176"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+    "address": [
+      {
+        "line": [
+          "199 REEDSDALE ROAD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP9301",
+    "address": [
+      {
+        "line": [
+          "240 CONCORD AVE"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-1337"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP34194",
+    "address": [
+      {
+        "line": [
+          "1 MIFFLIN PL"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-4946"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ORTHOPEDIC TRAUMA P.C.",
+    "address": [
+      {
+        "line": [
+          "100 HIGHLAND ST"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3874"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP112182",
+    "address": [
+      {
+        "line": [
+          "335 MAIN ST"
+        ],
+        "city": "SAUGUS",
+        "state": "MA",
+        "postalCode": "01906-3143"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "NORTH SUBURBAN ORTHOPEDIC ASSOCIATES INC",
+    "address": [
+      {
+        "line": [
+          "602 BOADWAY"
+        ],
+        "city": "EVERETT",
+        "state": "MA",
+        "postalCode": "02149"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "UROLOGY CONSULTANTS OF NS",
+    "address": [
+      {
+        "line": [
+          "1 WALLACE BASHAW JR WAY"
+        ],
+        "city": "NEWBURGPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CHELSEA MGH HEALTH CENTER MEDICAL WALK IN",
+    "address": [
+      {
+        "line": [
+          "151 EVERETT AVENUE"
+        ],
+        "city": "CHELSEA",
+        "state": "MA",
+        "postalCode": "2150"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "LAHEY CLINIC NORTHSHORE",
+    "address": [
+      {
+        "line": [
+          "1 ESSEX CENTER DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "1960"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CAMBRIDGE HEALTH ALLIANCE",
+    "address": [
+      {
+        "line": [
+          "1493 CAMBRIDGE STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ANNA JAQUES HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVENUE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "HALLMARK HEALTH SYSTEM",
+    "address": [
+      {
+        "line": [
+          "585 LEBANON STREET"
+        ],
+        "city": "MELROSE",
+        "state": "MA",
+        "postalCode": "02176"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+    "address": [
+      {
+        "line": [
+          "199 REEDSDALE ROAD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP9301",
+    "address": [
+      {
+        "line": [
+          "240 CONCORD AVE"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-1337"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP34194",
+    "address": [
+      {
+        "line": [
+          "1 MIFFLIN PL"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-4946"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ORTHOPEDIC TRAUMA P.C.",
+    "address": [
+      {
+        "line": [
+          "100 HIGHLAND ST"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3874"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP112182",
+    "address": [
+      {
+        "line": [
+          "335 MAIN ST"
+        ],
+        "city": "SAUGUS",
+        "state": "MA",
+        "postalCode": "01906-3143"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "NORTH SUBURBAN ORTHOPEDIC ASSOCIATES INC",
+    "address": [
+      {
+        "line": [
+          "602 BOADWAY"
+        ],
+        "city": "EVERETT",
+        "state": "MA",
+        "postalCode": "02149"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "UROLOGY CONSULTANTS OF NS",
+    "address": [
+      {
+        "line": [
+          "1 WALLACE BASHAW JR WAY"
+        ],
+        "city": "NEWBURGPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CHELSEA MGH HEALTH CENTER MEDICAL WALK IN",
+    "address": [
+      {
+        "line": [
+          "151 EVERETT AVENUE"
+        ],
+        "city": "CHELSEA",
+        "state": "MA",
+        "postalCode": "2150"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "LAHEY CLINIC NORTHSHORE",
+    "address": [
+      {
+        "line": [
+          "1 ESSEX CENTER DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "1960"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CAMBRIDGE HEALTH ALLIANCE",
+    "address": [
+      {
+        "line": [
+          "1493 CAMBRIDGE STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ANNA JAQUES HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVENUE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "HALLMARK HEALTH SYSTEM",
+    "address": [
+      {
+        "line": [
+          "585 LEBANON STREET"
+        ],
+        "city": "MELROSE",
+        "state": "MA",
+        "postalCode": "02176"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+    "address": [
+      {
+        "line": [
+          "199 REEDSDALE ROAD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP9301",
+    "address": [
+      {
+        "line": [
+          "240 CONCORD AVE"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-1337"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP34194",
+    "address": [
+      {
+        "line": [
+          "1 MIFFLIN PL"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-4946"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ORTHOPEDIC TRAUMA P.C.",
+    "address": [
+      {
+        "line": [
+          "100 HIGHLAND ST"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3874"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP112182",
+    "address": [
+      {
+        "line": [
+          "335 MAIN ST"
+        ],
+        "city": "SAUGUS",
+        "state": "MA",
+        "postalCode": "01906-3143"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "NORTH SUBURBAN ORTHOPEDIC ASSOCIATES INC",
+    "address": [
+      {
+        "line": [
+          "602 BOADWAY"
+        ],
+        "city": "EVERETT",
+        "state": "MA",
+        "postalCode": "02149"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "UROLOGY CONSULTANTS OF NS",
+    "address": [
+      {
+        "line": [
+          "1 WALLACE BASHAW JR WAY"
+        ],
+        "city": "NEWBURGPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CHELSEA MGH HEALTH CENTER MEDICAL WALK IN",
+    "address": [
+      {
+        "line": [
+          "151 EVERETT AVENUE"
+        ],
+        "city": "CHELSEA",
+        "state": "MA",
+        "postalCode": "2150"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "LAHEY CLINIC NORTHSHORE",
+    "address": [
+      {
+        "line": [
+          "1 ESSEX CENTER DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "1960"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CAMBRIDGE HEALTH ALLIANCE",
+    "address": [
+      {
+        "line": [
+          "1493 CAMBRIDGE STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ANNA JAQUES HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVENUE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "HALLMARK HEALTH SYSTEM",
+    "address": [
+      {
+        "line": [
+          "585 LEBANON STREET"
+        ],
+        "city": "MELROSE",
+        "state": "MA",
+        "postalCode": "02176"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+    "address": [
+      {
+        "line": [
+          "199 REEDSDALE ROAD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP9301",
+    "address": [
+      {
+        "line": [
+          "240 CONCORD AVE"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-1337"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP34194",
+    "address": [
+      {
+        "line": [
+          "1 MIFFLIN PL"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-4946"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ORTHOPEDIC TRAUMA P.C.",
+    "address": [
+      {
+        "line": [
+          "100 HIGHLAND ST"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3874"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP112182",
+    "address": [
+      {
+        "line": [
+          "335 MAIN ST"
+        ],
+        "city": "SAUGUS",
+        "state": "MA",
+        "postalCode": "01906-3143"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "NORTH SUBURBAN ORTHOPEDIC ASSOCIATES INC",
+    "address": [
+      {
+        "line": [
+          "602 BOADWAY"
+        ],
+        "city": "EVERETT",
+        "state": "MA",
+        "postalCode": "02149"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "UROLOGY CONSULTANTS OF NS",
+    "address": [
+      {
+        "line": [
+          "1 WALLACE BASHAW JR WAY"
+        ],
+        "city": "NEWBURGPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CHELSEA MGH HEALTH CENTER MEDICAL WALK IN",
+    "address": [
+      {
+        "line": [
+          "151 EVERETT AVENUE"
+        ],
+        "city": "CHELSEA",
+        "state": "MA",
+        "postalCode": "2150"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "LAHEY CLINIC NORTHSHORE",
+    "address": [
+      {
+        "line": [
+          "1 ESSEX CENTER DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "1960"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CAMBRIDGE HEALTH ALLIANCE",
+    "address": [
+      {
+        "line": [
+          "1493 CAMBRIDGE STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ANNA JAQUES HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVENUE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "HALLMARK HEALTH SYSTEM",
+    "address": [
+      {
+        "line": [
+          "585 LEBANON STREET"
+        ],
+        "city": "MELROSE",
+        "state": "MA",
+        "postalCode": "02176"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+    "address": [
+      {
+        "line": [
+          "199 REEDSDALE ROAD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP9301",
+    "address": [
+      {
+        "line": [
+          "240 CONCORD AVE"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-1337"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP34194",
+    "address": [
+      {
+        "line": [
+          "1 MIFFLIN PL"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-4946"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ORTHOPEDIC TRAUMA P.C.",
+    "address": [
+      {
+        "line": [
+          "100 HIGHLAND ST"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3874"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP112182",
+    "address": [
+      {
+        "line": [
+          "335 MAIN ST"
+        ],
+        "city": "SAUGUS",
+        "state": "MA",
+        "postalCode": "01906-3143"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "NORTH SUBURBAN ORTHOPEDIC ASSOCIATES INC",
+    "address": [
+      {
+        "line": [
+          "602 BOADWAY"
+        ],
+        "city": "EVERETT",
+        "state": "MA",
+        "postalCode": "02149"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "UROLOGY CONSULTANTS OF NS",
+    "address": [
+      {
+        "line": [
+          "1 WALLACE BASHAW JR WAY"
+        ],
+        "city": "NEWBURGPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CHELSEA MGH HEALTH CENTER MEDICAL WALK IN",
+    "address": [
+      {
+        "line": [
+          "151 EVERETT AVENUE"
+        ],
+        "city": "CHELSEA",
+        "state": "MA",
+        "postalCode": "2150"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "LAHEY CLINIC NORTHSHORE",
+    "address": [
+      {
+        "line": [
+          "1 ESSEX CENTER DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "1960"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CAMBRIDGE HEALTH ALLIANCE",
+    "address": [
+      {
+        "line": [
+          "1493 CAMBRIDGE STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ANNA JAQUES HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVENUE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "HALLMARK HEALTH SYSTEM",
+    "address": [
+      {
+        "line": [
+          "585 LEBANON STREET"
+        ],
+        "city": "MELROSE",
+        "state": "MA",
+        "postalCode": "02176"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+    "address": [
+      {
+        "line": [
+          "199 REEDSDALE ROAD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP9301",
+    "address": [
+      {
+        "line": [
+          "240 CONCORD AVE"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-1337"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP34194",
+    "address": [
+      {
+        "line": [
+          "1 MIFFLIN PL"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-4946"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ORTHOPEDIC TRAUMA P.C.",
+    "address": [
+      {
+        "line": [
+          "100 HIGHLAND ST"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3874"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP112182",
+    "address": [
+      {
+        "line": [
+          "335 MAIN ST"
+        ],
+        "city": "SAUGUS",
+        "state": "MA",
+        "postalCode": "01906-3143"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "NORTH SUBURBAN ORTHOPEDIC ASSOCIATES INC",
+    "address": [
+      {
+        "line": [
+          "602 BOADWAY"
+        ],
+        "city": "EVERETT",
+        "state": "MA",
+        "postalCode": "02149"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "UROLOGY CONSULTANTS OF NS",
+    "address": [
+      {
+        "line": [
+          "1 WALLACE BASHAW JR WAY"
+        ],
+        "city": "NEWBURGPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CHELSEA MGH HEALTH CENTER MEDICAL WALK IN",
+    "address": [
+      {
+        "line": [
+          "151 EVERETT AVENUE"
+        ],
+        "city": "CHELSEA",
+        "state": "MA",
+        "postalCode": "2150"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "LAHEY CLINIC NORTHSHORE",
+    "address": [
+      {
+        "line": [
+          "1 ESSEX CENTER DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "1960"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CAMBRIDGE HEALTH ALLIANCE",
+    "address": [
+      {
+        "line": [
+          "1493 CAMBRIDGE STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ANNA JAQUES HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVENUE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "HALLMARK HEALTH SYSTEM",
+    "address": [
+      {
+        "line": [
+          "585 LEBANON STREET"
+        ],
+        "city": "MELROSE",
+        "state": "MA",
+        "postalCode": "02176"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+    "address": [
+      {
+        "line": [
+          "199 REEDSDALE ROAD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP9301",
+    "address": [
+      {
+        "line": [
+          "240 CONCORD AVE"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-1337"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP34194",
+    "address": [
+      {
+        "line": [
+          "1 MIFFLIN PL"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-4946"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ORTHOPEDIC TRAUMA P.C.",
+    "address": [
+      {
+        "line": [
+          "100 HIGHLAND ST"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3874"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP112182",
+    "address": [
+      {
+        "line": [
+          "335 MAIN ST"
+        ],
+        "city": "SAUGUS",
+        "state": "MA",
+        "postalCode": "01906-3143"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "NORTH SUBURBAN ORTHOPEDIC ASSOCIATES INC",
+    "address": [
+      {
+        "line": [
+          "602 BOADWAY"
+        ],
+        "city": "EVERETT",
+        "state": "MA",
+        "postalCode": "02149"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "UROLOGY CONSULTANTS OF NS",
+    "address": [
+      {
+        "line": [
+          "1 WALLACE BASHAW JR WAY"
+        ],
+        "city": "NEWBURGPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CHELSEA MGH HEALTH CENTER MEDICAL WALK IN",
+    "address": [
+      {
+        "line": [
+          "151 EVERETT AVENUE"
+        ],
+        "city": "CHELSEA",
+        "state": "MA",
+        "postalCode": "2150"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "LAHEY CLINIC NORTHSHORE",
+    "address": [
+      {
+        "line": [
+          "1 ESSEX CENTER DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "1960"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "MOUNT AUBURN HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "330 MOUNT AUBURN STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CAMBRIDGE HEALTH ALLIANCE",
+    "address": [
+      {
+        "line": [
+          "1493 CAMBRIDGE STREET"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ANNA JAQUES HOSPITAL",
+    "address": [
+      {
+        "line": [
+          "25 HIGHLAND AVENUE"
+        ],
+        "city": "NEWBURYPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "HALLMARK HEALTH SYSTEM",
+    "address": [
+      {
+        "line": [
+          "585 LEBANON STREET"
+        ],
+        "city": "MELROSE",
+        "state": "MA",
+        "postalCode": "02176"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+    "address": [
+      {
+        "line": [
+          "199 REEDSDALE ROAD"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP9301",
+    "address": [
+      {
+        "line": [
+          "240 CONCORD AVE"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-1337"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP34194",
+    "address": [
+      {
+        "line": [
+          "1 MIFFLIN PL"
+        ],
+        "city": "CAMBRIDGE",
+        "state": "MA",
+        "postalCode": "02138-4946"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "ORTHOPEDIC TRAUMA P.C.",
+    "address": [
+      {
+        "line": [
+          "100 HIGHLAND ST"
+        ],
+        "city": "MILTON",
+        "state": "MA",
+        "postalCode": "02186-3874"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "PCP112182",
+    "address": [
+      {
+        "line": [
+          "335 MAIN ST"
+        ],
+        "city": "SAUGUS",
+        "state": "MA",
+        "postalCode": "01906-3143"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "NORTH SUBURBAN ORTHOPEDIC ASSOCIATES INC",
+    "address": [
+      {
+        "line": [
+          "602 BOADWAY"
+        ],
+        "city": "EVERETT",
+        "state": "MA",
+        "postalCode": "02149"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "UROLOGY CONSULTANTS OF NS",
+    "address": [
+      {
+        "line": [
+          "1 WALLACE BASHAW JR WAY"
+        ],
+        "city": "NEWBURGPORT",
+        "state": "MA",
+        "postalCode": "01950"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "CHELSEA MGH HEALTH CENTER MEDICAL WALK IN",
+    "address": [
+      {
+        "line": [
+          "151 EVERETT AVENUE"
+        ],
+        "city": "CHELSEA",
+        "state": "MA",
+        "postalCode": "2150"
+      }
+    ]
+  },
+  {
+    "resourceType": "Organization",
+    "name": "LAHEY CLINIC NORTHSHORE",
+    "address": [
+      {
+        "line": [
+          "1 ESSEX CENTER DRIVE"
+        ],
+        "city": "PEABODY",
+        "state": "MA",
+        "postalCode": "1960"
+      }
+    ]
+  }
+]

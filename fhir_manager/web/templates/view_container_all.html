@@ -1,0 +1,76 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="display-6">All Containers</h1>
+        <a href="{{ url_for('view_container_all') }}" class="btn btn-outline-secondary">🔄 Refresh</a>
+    </div>
+
+    <!-- Button to create a new container -->
+    <button id="btnNewContainer" class="btn btn-primary mb-4">
+        ➕ Create a New Container (Takes a Minute)
+    </button>
+
+    <!-- Loop through containers -->
+    <div class="row">
+        {% for container in containers %}
+            <div class="col-md-6 col-lg-4">
+                <div class="card shadow-sm mb-4">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <a href="{{ url_for('view_container_port', port=container.host_port) }}" class="text-decoration-none">
+                                🖥️ FHIR Server on Port: {{ container.host_port }}
+                            </a>
+                        </h5>
+
+                        {% if container.running %}
+                            <div class="alert alert-success p-2">
+                                ✅ Container is up and running...
+                            </div>
+                            {% if container.initializing %}
+                                <div class="alert alert-warning p-2">
+                                    ⏳ Initializing... Reload this page for updates.
+                                </div>
+                            {% endif %}
+                        {% else %}
+                            <div class="alert alert-danger p-2">
+                                ❌ Container is down...
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+<script>
+    // Create new container...
+    var btnNewContainer = document.getElementById('btnNewContainer');
+    var btnNewContainer_running = false;
+    btnNewContainer.addEventListener('click', function() {
+        btnNewContainer_running = true;
+        btnNewContainer.textContent = 'Creating a new container... Please wait for 1 minute...';
+
+        // POST on /create and wait for the response
+        fetch("{{ url_for('create_container') }}", {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({})
+        }).then(response => response.json())
+        .then(data => {
+            console.log('Success:', data);
+            btnNewContainer.textContent = 'Container created!';
+            btnNewContainer_running = false;
+            window.location.href = "/" + data.port + "/";
+        }).catch((error) => {
+            console.error('Error:', error);
+            btnNewContainer.textContent = 'An error occurred....';
+            //btnNewContainer_running = false;
+        });
+    });
+</script>
+{% endblock %}
